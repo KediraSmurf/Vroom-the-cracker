@@ -1,5 +1,5 @@
 # VROOM THE MR CRACKERHEAD
-It seems that Vroom is not only good at cracking software, but also at deleting all files from the computers of users who use the pirated versions.
+It seems that Vroom is not only good at cracking software, but also at deleting all files from the computers of users aswell.
 If he was not Asian, I would think he is related to Albert Einstein or Nikola Tesla... he is a phenomenon, let China find out that you do these things on the internet.
 
 
