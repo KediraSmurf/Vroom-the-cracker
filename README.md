@@ -1,4 +1,4 @@
-# Vroom-the-cracker
+# VROOM THE MR CRACKERHEAD
 Looks like Vroom's idea of cracking software is not only about illegally accessing programs, but also about cracking computers along with it. It's a shame that some people prioritize their own convenience over the safety and well-being of others.
 
 Here is a compilation of users who used the cracked AridekVM crying at Vroom's teats because they got their computers bought at IKEA broken.
