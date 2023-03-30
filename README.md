@@ -1,5 +1,7 @@
 # VROOM THE MR CRACKERHEAD
-Looks like Vroom's idea of cracking software is not only about illegally accessing programs, but also about cracking computers along with it. It's a shame that some people prioritize their own convenience over the safety and well-being of others.
+It seems that Vroom is not only good at cracking software, but also at deleting all files from the computers of users who use the pirated versions.
+If he was not Asian, I would think he is related to Albert Einstein or Nikola Tesla... he is a phenomenon, let China find out that you do these things on the internet.
+
 
 Here is a compilation of users who used the cracked AridekVM crying at Vroom's teats because they got their computers bought at IKEA broken.
 
