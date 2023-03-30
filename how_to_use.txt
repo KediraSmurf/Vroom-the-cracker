@@ -1,0 +1,51 @@
+AridekVM need to be at "C:/" disk!
+
+0 - Do a Windows Clean Install using USB -  https://www.youtube.com/watch?v=TugE4mt3HYI
+
+1 - Downgrade or update your bios version for avoid VAN 152 and AFTER disable TPM and TRUSTED COMPUTING (Some bios have more than 1 TPM option, Make sure everything is disabled.) in BIOS.
+
+2 - Disable any antivirus.
+
+3 - Login with your key, you will recieve at sellix email, click in GET PRODUCT.
+
+4 - Do 0, and 2 at first usage then you restart computer and do only 2.
+
+5 - EVERY PC RESTART you need do option 2.
+
+6 - Enjoy ;)
+
+
+VERY IMPORTANT.
+
+**If you have PTT or DTPM in your bios always prefer DTPM or FTPM DISABLED**
+
+**If you are getting a blue screen when you try option 2, prefer alternative option 3**
+
+
+
+VAN 152 = VAN 152 is a ban that can be bypassed simply by upgrading or downgrading the bios version (Even without spoofer). Its not a real ban. BUT still requeires a clean
+windows reinstall.
+
+VAN 5 = Real ban by HWID or cheats usage / traces files.
+
+
+Remember that you are dealing with an extremely powerful anticheat.
+
+
+NOTE:
+
+If after all process you keep getting banned, create a ticket and we will try to solve your issue. 
+
+
+***********************************************************************************************************************************
+IF YOU WANT USE IT AT FORTNITE USE OPTION 99 (HIDDED) INSTEAD OPTION 2 AND DOWNLOAD THE CLEANER HERE https://aridekvm.us/cleaner.exe
+***********************************************************************************************************************************
+
+
+Some tutorial commands for use in tickets: 
+
+!EAC   !APEX   !CRU   !VALORANT   !WINDOWS  !FLASH  !FORTNITE   !BE   !FIVEM
+
+
+
+
