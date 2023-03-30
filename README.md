@@ -5,6 +5,9 @@ If he was not Asian, I would think he is related to Albert Einstein or Nikola Te
 
 Here is a compilation of users who used the cracked AridekVM crying at Vroom's teats because they got their computers bought at IKEA broken.
 
+First of all thanks for the free ads
+
+<img src="https://github.com/KediraSmurf/Vroom-the-cracker/blob/main/meme/thanks%20vroom.png"/>
 
 <img src="https://github.com/KediraSmurf/Vroom-the-cracker/blob/main/meme/pc%20bricked%201.png"/>
 
